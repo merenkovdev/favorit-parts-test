@@ -1,0 +1,12 @@
+.logo {
+  color: var(--bs-gray-100);
+  font-size: 20px;
+}
+
+.contentWidth {
+  max-width: 800px;
+}
+
+.results {
+  max-width: 960px;
+}
